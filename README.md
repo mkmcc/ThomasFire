@@ -6,6 +6,15 @@ Color shows the progression of the fire, going from red to yellow.
 In dark red, I show all of the previous fires from the past decade or so.
 You can see that nearly the entire region has burned in the recent past; even so, the Thomas fire is unprecedented.
 
-![plain-map](thomas-fire-plain.png)
+Here it is on the National Geographic map of the region:
+![plain-map](thomas-fire_natgeo.png)
 
+on NASA's *Blue Marble* image of Earth:
 ![fancy-map](thomas-fire.png)
+
+and on a shaded relief map:
+![fancy-map](thomas-fire2.png)
+
+**Note:** *please don't use this for any kind of emergency planning or preparation!*
+I'm using data from NASA's satellites, which can be 1-2 days old by the time it becomes available, and on top of that I'm only updating these maps ~once per day.
+My only aim is to show the scope of the fire; check your local fire department, sheriff's department, and news stations for up-to-date information.
