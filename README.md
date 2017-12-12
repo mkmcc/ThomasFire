@@ -15,6 +15,8 @@ on NASA's *Blue Marble* image of Earth:
 and on a shaded relief map:
 ![fancy-map](thomas-fire2.png)
 
+If you want to read the code, you can see it [here](https://nbviewer.jupyter.org/github/mkmcc/ThomasFire/blob/master/Thomas%20Fire.ipynb).
+
 **Note:** *please don't use this for any kind of emergency planning or preparation!*
 I'm using data from NASA's satellites, which can be 1-2 days old by the time it becomes available, and on top of that I'm only updating these maps ~once per day.
 My only aim is to show the scope of the fire; check your local fire department, sheriff's department, and news stations for up-to-date information.
