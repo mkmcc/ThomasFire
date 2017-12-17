@@ -15,6 +15,9 @@ on NASA's *Blue Marble* image of Earth:
 and on a shaded relief map:
 ![fancy-map](thomas-fire2.png)
 
+... and a zoom-in on where I live, as of 6pm on 12/16:
+![:(](thomas-fire_12-16-6pm.png)
+
 If you want to read the code, you can see it [here](https://nbviewer.jupyter.org/github/mkmcc/ThomasFire/blob/master/Thomas%20Fire.ipynb).
 
 **Note:** *please don't use this for any kind of emergency planning or preparation!*
